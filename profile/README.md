@@ -1,12 +1,9 @@
-## Hi there 👋
-
-<!--
+## Olá 👋
+![Bright](https://user-images.githubusercontent.com/54187661/182242179-f5c97a2e-26bc-408f-ad8e-a5eafae699fc.jpg)
 
 **Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Bright é um projeto nascido na FIAP em parceria com a Plusoft
+
+Nosso aplicativo ajudará apaixonados por cozinha a encontrar receitas de maneira mais... inteligênte
+Com o uso de inteligência artificial, os cozinheiros e cozinheiras irão trabalhar com um co-piloto.
